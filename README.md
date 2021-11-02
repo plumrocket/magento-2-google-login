@@ -1,4 +1,4 @@
-# Magento 2 Line Login Extension
+# Magento 2 Google Login Extension
 
 With the [Google Login Magento 2 extension](https://plumrocket.com/magento-social-login-pro/google-login), your visitors can benefit from using their existing Google account to log in to your store. This streamlined login experience removes the hassle of remembering another password and provides a seamless login flow using Google's industry-leading security features.
  
