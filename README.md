@@ -22,7 +22,9 @@ In addition to logging in with Google, the extension provides the following feat
 
 Sign-up and registration is necessary but sometimes difficult process. Entering data again and again at every new site you visit can be error-prone and tedious. We designed our registration and sign-up process with Google with three goals: security, ease of use, and user experience. This way, our customers will only enter the minimum amount of information needed, eliminate typing errors by entering information quickly, and cut down on registrations and account creations across your website.
 
-Start making thousands of sales online today by simplifying and speeding up the sign-up process for your website.
+**Start making thousands of sales online today by simplifying and speeding up the sign-up process for your website.**
+
+<br>
 
 ## Get All-In-One Social Login Solution
 ### Integrate Google and 50+ other social login networks
